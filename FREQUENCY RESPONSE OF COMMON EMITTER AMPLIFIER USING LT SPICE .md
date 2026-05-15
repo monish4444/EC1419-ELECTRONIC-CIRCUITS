@@ -26,7 +26,11 @@
 
 ## Tabulation
 
+
 ## Graph
+<img width="1600" height="720" alt="ex 1" src="https://github.com/user-attachments/assets/74c79ef3-88ab-4474-8bd5-2d8504cef801" />
+<img width="1600" height="308" alt="ex 1 graph" src="https://github.com/user-attachments/assets/cb04644b-56cf-4060-9ebf-bec26a8f9de8" />
+
 
 
 ## **Result**
