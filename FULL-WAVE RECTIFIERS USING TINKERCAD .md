@@ -5,5 +5,7 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+<img width="998" height="606" alt="FW without capacitor" src="https://github.com/user-attachments/assets/5182ac16-9ebd-4a13-b546-ade2e607b76c" />
+
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
