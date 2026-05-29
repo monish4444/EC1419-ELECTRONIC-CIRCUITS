@@ -9,6 +9,8 @@
 ## Tabulations
 
 ## Graph
+<img width="1915" height="881" alt="EC EX3" src="https://github.com/user-attachments/assets/c64ba9ab-664e-4dd4-af86-1bcd3aa7d272" />
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
