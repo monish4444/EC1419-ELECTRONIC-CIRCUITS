@@ -7,7 +7,7 @@
 ## ATTACH THE CORRECT CIRCUIT AND GRAPH
 <img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/9a085bec-4e32-42e1-918c-56235438a4d8" />
 
-
+## TABULATION
 
 
 
