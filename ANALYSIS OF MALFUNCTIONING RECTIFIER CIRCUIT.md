@@ -6,8 +6,11 @@
 
 ## ATTACH THE CORRECT CIRCUIT AND GRAPH
 <img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/9a085bec-4e32-42e1-918c-56235438a4d8" />
+<img width="622" height="875" alt="WhatsApp Image 2026-06-05 at 10 19 25 AM" src="https://github.com/user-attachments/assets/bf8a4a77-126f-44dc-a32e-6a82e76be5e4" />
 
 ## TABULATION
+<img width="1600" height="840" alt="WhatsApp Image 2026-06-05 at 10 23 07 AM" src="https://github.com/user-attachments/assets/04f3bb5a-5909-47b1-9a31-109e2d109b51" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-05 at 10 20 28 AM" src="https://github.com/user-attachments/assets/a47d86fc-5598-475b-ad99-a766b64ce347" />
 
 
 
